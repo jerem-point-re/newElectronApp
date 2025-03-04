@@ -1,4 +1,5 @@
 [Website of Electron][Electron's site]
+[Download the PDF version of this ReadMe file](newElectronProject.pdf)
 
 # **Electron**: Creating a new project
 
